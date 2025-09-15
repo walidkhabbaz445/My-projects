@@ -2,19 +2,6 @@
 
 Adventura is an **AI-powered activity booking and trip planner** built with **Flutter (mobile frontend)**, **FastAPI + Node.js (backend)**, and **PostgreSQL (database)**.  
 It helps users discover, book, and manage unique activities & events — with smart availability, AI chat suggestions, and trip planning.
-
----
-
-## 📖 Table of Contents
-- [Overview](#-overview)
-- [Features](#-features)
-- [Architecture](#-architecture)
-- [Database Schema](#-database-schema)
-- [Setup Guide](#-setup-guide)
-- [Screenshots](#-screenshots)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-
 ---
 
 ## 🔎 Overview
@@ -69,3 +56,7 @@ Key tables:
 - [ ] Payment integrations (credit card, wallets)
 - [x] Agent-based AI planning
 - [x] Web dashboard for Admins
+
+---
+
+
