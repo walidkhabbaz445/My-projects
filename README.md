@@ -51,5 +51,3 @@ I am always open to collaboration, mentorship, and new opportunities in **softwa
 - 💻 GitHub: (https://github.com/walidkhabbaz445)  
 
 ---
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
