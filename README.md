@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Walid Khabbaz  
+#  Hi, I'm Walid Khabbaz  
 
-🎓 I am a graduate student from **Jinane University**, passionate about building modern software solutions and solving real-world problems through technology.  
+ I am a graduate student from **Jinane University**, passionate about building modern software solutions and solving real-world problems through technology.  
 
-💼 I have **6 months of professional experience** working in a software company as a **Data Analyst**, where I developed strong problem-solving skills, collaborated with cross-functional teams, and supported both customers and internal systems.  
+ I have **6 months of professional experience** working in a software company as a **Data Analyst**, where I developed strong problem-solving skills, collaborated with cross-functional teams, and supported both customers and internal systems.  
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Current Focus  
+##  Current Focus  
 
 - Building scalable **full-stack applications** with modern frameworks  
 - Enhancing mobile app development using **Flutter**  
@@ -33,7 +33,7 @@
 
 ---
 
-## 🌟 Strengths  
+##  Strengths  
 
 - Strong foundation in **software development** and **data analysis**  
 - Ability to quickly learn and adapt to new technologies  
