@@ -28,5 +28,18 @@ This project highlights:
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Features
+
+- 💼 **Clean & Modern UI:** A visually pleasing design inspired by minimalist principles  
+- 📱 **Responsive Design:** Works smoothly across devices  
+- 🧭 **Smooth Navigation:** JavaScript-based scrolling and section animations  
+- 📨 **Contact Integration:** Simple contact form or links to email and social profiles  
+
+---
+
+## 🔧 Setup & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-portfolio.git
 
